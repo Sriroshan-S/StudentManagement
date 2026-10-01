@@ -16,3 +16,5 @@ def delete(a,l):
 			l.remove(i)
 	print("removed sucessfully.")
 	return l
+def greet():
+	print("Welcome")

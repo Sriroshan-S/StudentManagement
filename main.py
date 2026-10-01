@@ -1,6 +1,8 @@
+
 print("Welcome Student Management Sstem")
 print("Introduction To GitHub")
 import student
+student.greet()
 l=[["hp",12],["dell",14]]
 print(student.display(l))
 l=student.add(l)
